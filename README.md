@@ -6,6 +6,10 @@
 <img src="https://daotao.vku.udn.vn/public/images/logo.png" width="30">
 <h5>Major: Information Technology
 <h5>Living and studying in the beautiful city of Da Nang
+<h4>CONTACT ME: 
+<h5>Mail: tthngan.18it3@vku.udn.vn
+<h5>Phone: 0374900701
+
 </em></p>
 
 [![Youtobe: Hương Ngân Trần](https://img.shields.io/youtube/channel/views/UCheKoYzbewPLBfY5znt-w1Q)](https://www.youtube.com/channel/UCheKoYzbewPLBfY5znt-w1Q)
