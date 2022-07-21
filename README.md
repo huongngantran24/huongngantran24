@@ -7,7 +7,7 @@
 
 <h5>Major: Information Technology
 <h5>Living and studying in the beautiful city of <a href="https://goo.gl/maps/aoXodoZ24XnPpkxa7">Da Nang</a>
-<h4>CONTACT ME: 
+<h4>CONTACT ME:
 <h5>Mail: tthngan.18it3@vku.udn.vn
 <h5>Phone: 0374900701
 </em></p>
