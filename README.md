@@ -4,6 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student at <a href="http://www.unb.br">Vietnam - Korea University of Information and Communication Technology</a>
 <img src="https://daotao.vku.udn.vn/public/images/logo.png" width="30">
+<h5>Major: Information Technology
 <h5>Living and studying in the beautiful city of Da Nang
 </em></p>
 
@@ -15,9 +16,10 @@
 
 ```javascript
 const Huong Ngan = {
-  pronouns: "she" | "her",
-  my full name: Tran Thi Huong Ngan,
-  birthday: 24/08/2000
+  pronouns: "Ngân ơi" | "HNT",
+  my full name: Trần Thị Hương Ngân,
+  birthday: 24/08/2000,
+  GPA:7.26,
   code: [HTML, CSS],
   tools bug-tracking: [Redmine, Jira],
   tools testing: [Postman, JMeter],
