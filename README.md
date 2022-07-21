@@ -31,10 +31,21 @@ const Huong Ngan = {
   My full name: Trần Thị Hương Ngân,
   Birthday: 24/08/2000,
   GPA:7.26,
-  Code: [HTML, CSS],
+  PROGRAMMING LANGUAGES: [HTML, CSS],
   Tools bug-tracking: [Redmine, Jira],
   Tools testing: [Postman, JMeter],
   DB:[SQL Server],
+ 
+  🌱 TECHNICAL SKILLS:
+  - LANGUAGE: English read - understand
+  - INFORMATION TECHNOLOGY: Word, PowerPoint, Excel
+  - MANUAL TESTING: Creating test plans, Making test cases, Test execution, Log bug
+ 
+  ✨ SOFT SKILLS:
+  - Interpersonal skills 
+  - Teamwork skills 
+  - Logical thinking 
+  - Emerging technology adaptability
 
 - ⚡ Fun fact:Like everything except the exception
   
