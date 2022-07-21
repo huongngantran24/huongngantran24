@@ -4,6 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Student at <a href="http://www.unb.br">Vietnam - Korea University of Information and Communication Technology</a>
 <img src="https://daotao.vku.udn.vn/public/images/logo.png" width="30">
+<h5>Living and studying in the beautiful city of Da Nang
 </em></p>
 
 [![Youtobe: Hương Ngân Trần](https://img.shields.io/youtube/channel/views/UCheKoYzbewPLBfY5znt-w1Q)](https://www.youtube.com/channel/UCheKoYzbewPLBfY5znt-w1Q)
@@ -26,6 +27,8 @@ const Huong Ngan = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<h5>Below are the projects I did while studying at school. For your reference
 
 ---
 
