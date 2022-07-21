@@ -2,15 +2,17 @@
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Student at <a href="http://www.unb.br">Vietnam - Korea University of Information and Communication Technology</a>
-<img src="https://daotao.vku.udn.vn/public/images/logo.png" width="30">
+<p><em>Student at <a href="http://vku.udn.vn/">Vietnam - Korea University of Information and Communication Technology</a>
+<img src="https://daotao.vku.udn.vn/public/images/logo.png" width="30"></em></p>
+
 <h5>Major: Information Technology
-<h5>Living and studying in the beautiful city of Da Nang
+<h5>Living and studying in the beautiful city of <a href="https://goo.gl/maps/aoXodoZ24XnPpkxa7">Da Nang</a>
 <h4>CONTACT ME: 
 <h5>Mail: tthngan.18it3@vku.udn.vn
 <h5>Phone: 0374900701
-
 </em></p>
+
+
 
 [![Youtobe: Hương Ngân Trần](https://img.shields.io/youtube/channel/views/UCheKoYzbewPLBfY5znt-w1Q)](https://www.youtube.com/channel/UCheKoYzbewPLBfY5znt-w1Q)
 [![GitHub huongngantran24](https://img.shields.io/github/followers/huongngantran24?label=follow&style=social)](https://github.com/Thaiane)
