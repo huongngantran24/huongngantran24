@@ -49,7 +49,7 @@ const Huong Ngan = {
 
 - ⚡ Fun fact:Like everything except the exception
   
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Testing"
 }
 ```
 
