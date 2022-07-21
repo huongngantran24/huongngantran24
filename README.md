@@ -34,6 +34,7 @@ const Huong Ngan = {
   Code: [HTML, CSS],
   Tools bug-tracking: [Redmine, Jira],
   Tools testing: [Postman, JMeter],
+  DB:[SQL Server],
 
 - ⚡ Fun fact:Like everything except the exception
   
