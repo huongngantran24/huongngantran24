@@ -12,7 +12,7 @@
 <em><b>CONTACT ME</b></em>
 
 <h5>Mail: tthngan.18it3@vku.udn.vn
-<h5>FB: fb.com/huongnngantran/
+<h5>FB: Hương Ngân Trần
 <h5>Phone: 0374900701
 </em></p>
 
