@@ -24,13 +24,13 @@
 
 ```javascript
 const Huong Ngan = {
- - 😄 Pronouns: "Ngân ơi" | "HNT",
+ - 😄 Pronouns: "HNT",
  - 🌱 I’m currently learning Manual Testing. In the future, I will cultivate more Automation Testing
  - 🤔 I am looking for help in finding a trainee job in Da Nang so I can learn more practical experience
  
   My full name: Trần Thị Hương Ngân,
   Birthday: 24/08/2000,
-  GPA:7.26,
+  GPA:7.72,
   PROGRAMMING LANGUAGES: [HTML, CSS],
   Tools bug-tracking: [Redmine, Jira],
   Tools testing: [Postman, JMeter],
@@ -38,8 +38,8 @@ const Huong Ngan = {
  
   🌱 TECHNICAL SKILLS:
   - LANGUAGE: English read - understand
-  - INFORMATION TECHNOLOGY: Word, PowerPoint, Excel
-  - MANUAL TESTING: Creating test plans, Making test cases, Test execution, Log bug
+  - INFORMATION TECHNOLOGY: Word, PowerPoint, Excel, Google Sheet
+  - MANUAL TESTING: Creating test design, checklist, test cases; Test execution; Log bug
  
   ✨ SOFT SKILLS:
   - Interpersonal skills 
