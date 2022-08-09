@@ -1,4 +1,4 @@
-<h2> Hi, I'm Huong Ngan Tran! 
+<h2> Hi, I'm Hương Ngân Trần! 
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -12,6 +12,7 @@
 <em><b>CONTACT ME</b></em>
 
 <h5>Mail: tthngan.18it3@vku.udn.vn
+<h5>FB: fb.com/huongnngantran/
 <h5>Phone: 0374900701
 </em></p>
 
