@@ -6,6 +6,7 @@
 <img src="https://daotao.vku.udn.vn/public/images/logo.png" width="30">
 
 <h5>Major: Information Technology
+<h5>GPA: 7,72
 <h5>Living and studying in the beautiful city of <a href="https://goo.gl/maps/aoXodoZ24XnPpkxa7">Da Nang</a></em></p>
 
 <img src="https://img.wattpad.com/eae718208e76fe43ae8a60165ec3fc445cf3e78f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f774933346250666967374a7167673d3d2d3732313832323135312e313539373062363064626666626637353831383532313432353736342e676966" width="60">
