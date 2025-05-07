@@ -10,11 +10,6 @@
 <h5>Living and studying in the beautiful <a href="https://goo.gl/maps/aoXodoZ24XnPpkxa7">Da Nang</a> city </em></p>
 
 <img src="https://img.wattpad.com/eae718208e76fe43ae8a60165ec3fc445cf3e78f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f774933346250666967374a7167673d3d2d3732313832323135312e313539373062363064626666626637353831383532313432353736342e676966" width="60">
-<em><b>CONTACT ME</b></em>
-
-<h5>Mail: tthngan.18it3@vku.udn.vn
-<h5>FB: Hương Ngân Trần
-<h5>Phone: 0374900701
 </em></p>
 
 
@@ -31,25 +26,6 @@ const Huong Ngan = {
  - 🤔 I am looking for help in finding a trainee job in Da Nang so I can learn more practical experience
  
   My full name: Trần Thị Hương Ngân,
-  Birthday: 24/08/2000,
-  GPA:7.72,
-  PROGRAMMING LANGUAGES: [HTML, CSS],
-  Tools bug-tracking: [Redmine, Jira],
-  Tools testing: [Postman, JMeter],
-  DB:[SQL Server],
- 
-  🌱 TECHNICAL SKILLS:
-  - LANGUAGE: English read - understand
-  - INFORMATION TECHNOLOGY: Word, PowerPoint, Excel, Google Sheet
-  - MANUAL TESTING: Creating test design, checklist, test cases; Test execution; Log bug
- 
-  ✨ SOFT SKILLS:
-  - Interpersonal skills 
-  - Teamwork skills 
-  - Logical thinking 
-  - Emerging technology adaptability
-
-- ⚡ Fun fact:Like everything except the exception
  
 }
 ```
